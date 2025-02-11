@@ -354,7 +354,7 @@ questions:
                                         schema:
                                           type: string
                                           default: "0.0.0.0/0, ::/0"
-                                      - variable: PASSWORD
+                                      - variable: PASSWORD_HASH
                                         label: "ADMIN_PASSWORD"
                                         schema:
                                           type: string
